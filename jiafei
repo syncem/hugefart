@@ -2,5 +2,5 @@ local plr = game:GetService("Players").LocalPlayer
 if plr:IsInGroup("13156338") then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/syncem/hugecat/fart/gege"))()
     else
-    plr:Kick("noob")
+    plr:Kick("Banned")
 end
